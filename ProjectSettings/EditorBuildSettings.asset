@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PinballScene.unity
     guid: a3ecfe5924f862e44949b77d2b993199
+  - enabled: 1
+    path: Assets/Scenes/BolaLoca.unity
+    guid: bdccd708c04700a48a783a225a3db6dc
+  - enabled: 1
+    path: Assets/Scenes/Contrareloj.unity
+    guid: 98f1dbb2c79efef4baef47de8aa977eb
   m_configObjects: {}

@@ -13,11 +13,11 @@ public class ButtonBehaviour : MonoBehaviour
 
     public void PlayGame2()
     {
-        SceneManager.LoadScene("PinballScene");
+        SceneManager.LoadScene("Contrareloj");
     }
 
     public void PlayGame3()
     {
-        SceneManager.LoadScene("PinballScene");
+        SceneManager.LoadScene("BolaLoca");
     }
 }
