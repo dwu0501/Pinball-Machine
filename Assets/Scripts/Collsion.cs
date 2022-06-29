@@ -12,7 +12,7 @@ public class Collsion : MonoBehaviour
 
     void Update()
     {
-        transform.RotateAround(rotacion.position, Vector3.up, angle * Time.deltaTime);
+        transform.RotateAround(rotacion.position, Vector3.up, angle * UnityEngine.Time.deltaTime);
 
         FuentedeAudio = GetComponent<AudioSource>();
     }

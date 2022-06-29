@@ -7,7 +7,7 @@ public class Flipper : MonoBehaviour
 
     public float restPosition=0;
     public float activePosition=45;
-    public float hitStrenght=10000;
+    public static float hitStrenght=15000;
     public float FlipDamper=150;
     HingeJoint hinge;
     public string nameInput ="";
